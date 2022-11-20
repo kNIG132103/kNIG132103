@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @kNIG132103
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning c++
+- 👋 Hi, I’m Nitish Sharma
+- Just a vidyarthi
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
